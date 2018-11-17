@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OnboardingScreen</string>
+
+    <!-- Layout String's -->
+    <string name="Sebelumnya">Sebelumnya</string>
+    <string name="Selanjutnya">Selanjutnya</string>
+    <string name="contentDescription_OnboardingImage">onBoardingImage</string>
+    <string name="Selesai">Selesai</string>
+
+    <!-- Onboarding Message -->
+    <string-array name="onboardingHeader">
+        <item>Stock</item>
+        <item>Hutang</item>
+        <item>Keuntungan</item>
+        <item>Kerugian</item>
+    </string-array>
+    <array name="onboardingImage">
+        <item>@drawable/stock</item>
+        <item>@drawable/hutang</item>
+        <item>@drawable/keuntungan</item>
+        <item>@drawable/kerugian</item>
+    </array>
+    <string-array name="onboardingDesc">
+        <item>Tulis data Stok Warung Anda pada WarungApp dan atur semua barang yang ada.</item>
+        <item>Catat semua Hutang banyak Orang pada Warung Anda dan kontrol semua aktifitas Hutang yang ada, di WarungApp.</item>
+        <item>Lihat semua Keuntungan yang Anda dapatkan dari setiap barang yang Anda Jual dengan WarungApp.</item>
+        <item>Lihat semua Kerugian yang Anda alami saat Anda berdagang dan perbaiki itu semua dengan WarungApp.</item>
+    </string-array>
+
+</resources>
